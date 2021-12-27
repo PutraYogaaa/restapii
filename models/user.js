@@ -1,6 +1,6 @@
 const user={
-    name: 'Ainan Fajar',
-    address: 'Tangerang, Banten',
+    name: 'I Nyoman Putra Yoga',
+    address: 'Kaimana',
 }
 
 module.exports = user;
